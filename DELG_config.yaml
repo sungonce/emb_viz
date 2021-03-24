@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        755,
+        2048
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/won4113/d051b46b3eb2f6ae3b2b81e2220fde75/raw/dd7864dd3f99373d3a1b6a7204d4f87ab710a848/DELG_Rox_Hard_desc.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/won4113/d051b46b3eb2f6ae3b2b81e2220fde75/raw/dd7864dd3f99373d3a1b6a7204d4f87ab710a848/DELG_Rox_Hard_label.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/won4113/emb_viz/master/ICON_Rox_Hard_sprite_30.jpg",
+        "singleImageDim": [
+          30,
+          30
+        ]
+      }
+    }
+  ]
+}
