@@ -6,13 +6,13 @@
         1000,
         50
       ],
-      "tensorPath": "https://gist.github.com/.../tensors.tsv",
-      "metadataPath": "https://gist.github.com/.../optional.metadata.tsv",
+      "tensorPath": "https://github.com/won4113/emb_viz/blob/master/ICON_Rox_Hard_desc.tsv",
+      "metadataPath": "https://github.com/won4113/emb_viz/blob/master/ICON_Rox_Hard_label.tsv",
       "sprite": {
-        "imagePath": "https://github.com/.../optional.sprite.png",
+        "imagePath": "https://github.com/won4113/emb_viz/blob/master/ICON_Rox_Hard_sprite.jpg",
         "singleImageDim": [
-          32,
-          32
+          25,
+          25
         ]
       }
     }
