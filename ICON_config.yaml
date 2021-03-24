@@ -6,10 +6,10 @@
         755,
         2048
       ],
-      "tensorPath": "https://github.com/won4113/emb_viz/blob/master/ICON_Rox_Hard_desc.tsv",
-      "metadataPath": "https://github.com/won4113/emb_viz/blob/master/ICON_Rox_Hard_label.tsv",
+      "tensorPath": "https://github.com/won4113/emb_viz/raw/master/ICON_Rox_Hard_desc.tsv",
+      "metadataPath": "https://github.com/won4113/emb_viz/raw/master/ICON_Rox_Hard_label.tsv",
       "sprite": {
-        "imagePath": "https://github.com/won4113/emb_viz/blob/master/ICON_Rox_Hard_sprite.jpg",
+        "imagePath": "https://github.com/won4113/emb_viz/raw/master/ICON_Rox_Hard_sprite.jpg",
         "singleImageDim": [
           25,
           25
