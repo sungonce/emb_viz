@@ -11,8 +11,13 @@
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/won4113/emb_viz/master/ICON_Rox_Hard_sprite_15.jpg",
         "singleImageDim": [
+<<<<<<< HEAD
           15,
           15
+=======
+          10,
+          10
+>>>>>>> 8b7184128c19717d9c429b7b5beacf04f417f632
         ]
       }
     }
