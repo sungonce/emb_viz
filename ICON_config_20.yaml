@@ -7,7 +7,7 @@
         2048
       ],
       "tensorPath": "https://gist.githubusercontent.com/won4113/e103d1aa243ef862fc7e5bf9c795d49a/raw/74971582ddd73df459c41a51d32d3305c545c379/ICON_Rox_Hard_desc.tsv",
-      "metadataPath": "https://gist.githubusercontent.com/won4113/3f017b63aa2a624c5d893da51d8e3334/raw/b22184c1b60909a57ff1200d39fde807bcb0ac5e/ICON_Rox_Hard_label_new.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/won4113/0c7cc3263eef5ba1ed966c64e0c1a754/raw/47a694d083ea332255cde9b3476a316ac82aba75/ICON_Rox_Hard_label_new2.tsv",
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/won4113/emb_viz/master/ICON_Rox_Hard_sprite_20.jpg",
         "singleImageDim": [
